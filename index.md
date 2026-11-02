@@ -52,4 +52,4 @@ This policy may be updated to reflect changes in ResellerIQ's functionality or d
 
 For privacy-related inquiries, contact:
 
-**[INSERT CONTACT EMAIL]**
+privacy.bertramhenry.com
